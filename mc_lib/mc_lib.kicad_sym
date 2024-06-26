@@ -1277,7 +1277,7 @@
 			(pin input line
 				(at 36.83 11.43 180)
 				(length 2.54)
-				(name "PA13"
+				(name "PA13/SWDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1331,7 +1331,7 @@
 			(pin input line
 				(at 13.97 39.37 270)
 				(length 2.54)
-				(name "PA14/U2_TX"
+				(name "PA14/U2_TX/SWCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
