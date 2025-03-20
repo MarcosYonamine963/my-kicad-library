@@ -312,8 +312,8 @@
 		(uuid "a8ab2562-fa2d-41ba-ac9a-8565a60e046d")
 	)
 	(pad "MP" smd rect
-		(at -4.9 -2.85)
-		(size 1.8 1.5)
+		(at -4.9 -2.975)
+		(size 1.8 1.25)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "81ef3576-11dc-4a68-94c5-edad86f9846a")
 	)
@@ -330,8 +330,8 @@
 		(uuid "878efddf-4cda-4672-8374-008210b9bb96")
 	)
 	(pad "MP" smd rect
-		(at 4.9 -2.85)
-		(size 1.8 1.5)
+		(at 4.9 -3)
+		(size 1.8 1.2)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "03b7a570-3ab6-40b9-af30-bac28f92b601")
 	)
