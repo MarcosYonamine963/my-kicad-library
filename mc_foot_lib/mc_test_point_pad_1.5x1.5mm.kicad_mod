@@ -4,38 +4,36 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 2.2 0)
-		(unlocked yes)
+		(at 0 -1.425 0)
 		(layer "F.SilkS")
 		(uuid "28f67a05-7dda-4b90-aba6-03c372510095")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.1)
+				(size 0.8 0.8)
+				(thickness 0.15)
 			)
 		)
 	)
 	(property "Value" "mc_test_point_pad_1.5x1.5mm"
-		(at 0 2.8 0)
-		(unlocked yes)
+		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "1a65d36e-1f85-4411-912d-3779aa44db54")
 		(effects
 			(font
-				(size 1 1)
+				(size 0.8 0.8)
 				(thickness 0.15)
 			)
 		)
 	)
 	(property "Footprint" "mc_test_point_pad_1.5x1.5mm"
-		(at 0 1.8 0)
-		(unlocked yes)
+		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "78c6ab80-98b1-4aa6-ad2c-08dd5b402f51")
 		(effects
 			(font
-				(size 1 1)
+				(size 0.8 0.8)
 				(thickness 0.15)
 			)
 		)
@@ -90,13 +88,12 @@
 		(uuid "977a0ff9-d0bc-4918-91c7-abd94718053a")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 4.3 0)
-		(unlocked yes)
+		(at 0 0 0)
 		(layer "F.Fab")
 		(uuid "388f1311-ffb6-44d3-860b-218c5cccb9e1")
 		(effects
 			(font
-				(size 1 1)
+				(size 0.8 0.8)
 				(thickness 0.15)
 			)
 		)

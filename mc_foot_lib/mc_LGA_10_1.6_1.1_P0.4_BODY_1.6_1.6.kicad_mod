@@ -301,4 +301,15 @@
 		(clearance 0.1)
 		(uuid "b68d8c5e-84dd-4ad4-a71d-3e870cba32b0")
 	)
+	(model "C:/Users/pedro.braga/Documents/_mc_files/my-kicad-library/mc_3D_lib/MC3635_MEM.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

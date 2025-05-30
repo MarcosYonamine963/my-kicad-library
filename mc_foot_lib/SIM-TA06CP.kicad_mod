@@ -1,0 +1,82 @@
+(footprint "SIM-TA06CP"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.075 -17.725 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d25371fd-841b-4eee-b6d0-fd2336bc61bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SIM-TA06CP"
+		(at -0.075 -16.225 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1052f80b-ad7a-41bd-a2d7-04f127cea477")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "SIM-TA06CP"
+		(at -0.075 -17.225 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3d2530e-5484-457b-b21a-0832ef250215")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.075 -17.225 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "093647ab-e5c6-4467-9c95-b9f06aed695c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.075 -17.225 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce046bfd-7b63-46df-ae74-709d6a1ce310")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at -0.075 -14.725 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6b3a2c88-ae99-413f-8ca0-01b937e465e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)
